@@ -9,11 +9,12 @@ public class Main {
 
 class NamePrinter {
     /**
-     * Prints the names in the names array seperated by the separator variable
-	 * 
-	 * @author Team 08
-	 * @version 1.0
-	 * 
+     * Prints the names Scott Jacobsen, Jorge Gonzalez, Michael Loney, and Humphrey Akuba
+     * separated by semicolons
+     * 
+     * @author Team 08
+     * @version 1.0
+     * 
      */
     public void printNames() {
         String separator = "-";
