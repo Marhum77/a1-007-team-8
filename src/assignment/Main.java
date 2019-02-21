@@ -16,7 +16,7 @@ class NamePrinter {
 	 * 
      */
     public void printNames() {
-        String separator = ",";
+        String separator = "-";
 
         String[] names = {
                 "Scott Jacobsen",
