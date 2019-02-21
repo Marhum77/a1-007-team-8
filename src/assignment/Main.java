@@ -20,7 +20,7 @@ class NamePrinter {
 
         String[] names = {
                 "Scott Jacobsen",
-                "Name 2",
+                "Jorge Gonzalez",
                 "Michael Loney",
                 "Name 4",
                 "Name 5"};
